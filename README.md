@@ -16,7 +16,6 @@ Django
 PostgreSQL
 I am actively seeking a challenging and stimulating role where I can apply my expertise and make a significant impact on innovative projects. Feel free to reach out if you have any exciting opportunities or collaborations in mind! 😊
 
-Let me know if you would like any further enhancements or specific modifications. Wishing you success with your GitHub profile! 🚀
 
 
 

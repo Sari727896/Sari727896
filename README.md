@@ -47,7 +47,7 @@ like-minded professionals and working on exciting projects.
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200"> 
 
-![Quote](https://quotes-gw.herokuapp.com/quote/random)
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 
 

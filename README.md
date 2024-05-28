@@ -45,7 +45,7 @@ Let's Build Amazing Things Together!
 Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
 like-minded professionals and working on exciting projects.
 
-![קוד C#](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ3ZmM5b21manUwNTZ2cnM2eTZuc3I2YjU2N3M3dGk4c2gxNWk5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
+![קוד רץ בתוך טרמינל](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
 

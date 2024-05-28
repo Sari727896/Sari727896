@@ -49,9 +49,9 @@ like-minded professionals and working on exciting projects.
 
 
 <div style="display: flex; justify-content: space-between;">
-    <div>
+   
 [![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)](https://github.com/sari727896)
-    </div>
+  
     <div style="margin-left: 10px;">
         <!-- כאן הוסף את ריבוע השפה השני -->  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact)
     </div>

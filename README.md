@@ -46,7 +46,9 @@ Feel free to explore my repositories to see my work and contributions. I look fo
 like-minded professionals and working on exciting projects.
 
 
-![Code like a boss](https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif)
+"איך תכנס מתכנת לבית? לוחץ על כפתור הפתיחה!"
+![Programmer Joke](https://media.giphy.com/media/VgJFm4vAmL4Lv2inMH/giphy.gif)
+
 
 
 

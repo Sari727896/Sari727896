@@ -48,7 +48,7 @@ like-minded professionals and working on exciting projects.
 
 
 
-<div style="display: flex; justify-content: space-between;">
+
    
 [![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)](https://github.com/sari727896)
   
@@ -57,7 +57,6 @@ like-minded professionals and working on exciting projects.
    
              <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
 
-</div>
 
 
 

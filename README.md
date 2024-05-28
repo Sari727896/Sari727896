@@ -50,30 +50,11 @@ like-minded professionals and working on exciting projects.
 
 
    
-[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)](https://github.com/sari727896)  
-<div>
-        <!-- הוספת סטטוס השפות -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-    </div>
+
   
 
    
-<table>
-  <tr>
-    <td>
-      <!-- הוספת סטטוס השפות -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-    </td>
-    <td>
-      <!-- הוספת סטטוס הקומיטים -->
-      <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <!-- הוספת גיף -->
- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
-    </td>
-  </tr>
-</table>
+
 
 
 <div style="display: flex; justify-content: space-between;">

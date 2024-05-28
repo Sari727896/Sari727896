@@ -56,6 +56,18 @@ like-minded professionals and working on exciting projects.
    
  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
 
+ <div style="display: flex; align-items: center;">
+    <div>
+        <!-- הוספת סטטוס השפות -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+    </div>
+    <div style="margin-left: 20px;">
+        <!-- הוספת גיף או תמונה אחרת -->
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ3ZmM5b21manUwNTZ2cnM2eTZuc3I2YjU2N3M3dGk4c2gxNWk5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Animated GIF" />
+    </div>
+</div>
+
+
 
 
 

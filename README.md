@@ -79,7 +79,7 @@ like-minded professionals and working on exciting projects.
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Animated GIF" width="200" />
+ <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
 </div>
 
 

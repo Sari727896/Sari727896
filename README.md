@@ -30,8 +30,6 @@ languages and tools. Here are some of the technologies I work with:
   <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></a>
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
-  <a href="https://www.cyberark.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cyberark/cyberark-original.svg" alt="CyberArk" width="40" height="40"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PKI" width="40" height="40"/></a>
 </p>
 
 

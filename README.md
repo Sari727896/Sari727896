@@ -34,7 +34,7 @@ languages and tools. Here are some of the technologies I work with:
 I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience 
 in the backend web world. I am eager to collaborate on projects that push the boundaries of technology and 
 innovation.
-![Workflow GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
 
 
 If you have an opportunity or a project you'd like to discuss, please feel free to contact me. I'm always
@@ -44,6 +44,7 @@ open to new challenges and collaborations.
 Let's Build Amazing Things Together!
 Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
 like-minded professionals and working on exciting projects.
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sari727896&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

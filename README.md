@@ -48,10 +48,19 @@ like-minded professionals and working on exciting projects.
 
 
 
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <!-- כאן הוסף את ריבוע השפה הראשון -->![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)
+    </div>
+    <div style="margin-left: 10px;">
+        <!-- כאן הוסף את ריבוע השפה השני -->  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact)
+    </div>
+    <!-- וכן הלאה עבור כל ריבוע נוסף -->          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
+
+</div>
 
 
 
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact)   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
  
 
 

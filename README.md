@@ -45,7 +45,7 @@ Let's Build Amazing Things Together!
 Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
 like-minded professionals and working on exciting projects.
 
-![קוד רץ](https://media.giphy.com/media/l41YlzIdh3rcKYzDO/giphy.gif)
+![קוד רץ](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
 

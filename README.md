@@ -45,10 +45,12 @@ Let's Build Amazing Things Together!
 Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
 like-minded professionals and working on exciting projects.
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150">  
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150">  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&theme=radical)
 
-[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896)](https://github.com/sari727896) 
-![Commit Activity](https://img.shields.io/github/commit-activity/m/sari727896/my-project)
+
+ס
+
 
 
 

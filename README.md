@@ -50,7 +50,8 @@ like-minded professionals and working on exciting projects.
 
 
    
-[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)](https://github.com/sari727896)  <div>
+[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)](https://github.com/sari727896)  
+<div>
         <!-- הוספת סטטוס השפות -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
     </div>
@@ -58,6 +59,23 @@ like-minded professionals and working on exciting projects.
 
    
  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
+ <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+    <div>
+        <!-- הוספת סטטוס השפות -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+    </div>
+    <div>
+        <!-- הוספת סטטוס הקומיטים -->
+        <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </div>
+    <div>
+        <!-- הוספת גיף -->
+        <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Animated GIF" width="200" />
+    </div>
+</div>
+
+
+ ה
 
  
 

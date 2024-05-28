@@ -34,7 +34,8 @@ languages and tools. Here are some of the technologies I work with:
 I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience 
 in the backend web world. I am eager to collaborate on projects that push the boundaries of technology and 
 innovation.
-![GIF תיאור](https://link.to/your.gif)
+![Workflow GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
 
 If you have an opportunity or a project you'd like to discuss, please feel free to contact me. I'm always
 open to new challenges and collaborations.

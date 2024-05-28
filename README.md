@@ -41,7 +41,7 @@ If you have an opportunity or a project you'd like to discuss, please feel free 
 open to new challenges and collaborations.
 📫 Email: sari896job@gmail.com
 <br><br>
- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated GIF" width="150" height="150">
+ <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated GIF" width="150" height="300">
 
 
 Let's Build Amazing Things Together!

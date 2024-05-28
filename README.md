@@ -46,6 +46,7 @@ Feel free to explore my repositories to see my work and contributions. I look fo
 like-minded professionals and working on exciting projects.
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200"> 
+
 ![Quote](https://quotes-gw.herokuapp.com/quote/random)
 
 

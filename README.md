@@ -51,10 +51,9 @@ like-minded professionals and working on exciting projects.
 
 
 
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact)   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150">
  
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100">
+
 
 
 

@@ -45,9 +45,8 @@ Let's Build Amazing Things Together!
 Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
 like-minded professionals and working on exciting projects.
 
+![Coding Robot](https://media.giphy.com/media/l41YlzIdh3rcKYzDO/giphy.gif)
 
-"איך תכנס מתכנת לבית? לוחץ על כפתור הפתיחה!"
-![Robot Coding](https://media.giphy.com/media/Xb0CyBQyIzGmZfXXSO/giphy.gif)
 
 
 

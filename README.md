@@ -47,7 +47,8 @@ like-minded professionals and working on exciting projects.
 
 
 "איך תכנס מתכנת לבית? לוחץ על כפתור הפתיחה!"
-![Programmer Joke](https://media.giphy.com/media/VgJFm4vAmL4Lv2inMH/giphy.gif)
+![Robot Coding](https://media.giphy.com/media/Xb0CyBQyIzGmZfXXSO/giphy.gif)
+
 
 
 

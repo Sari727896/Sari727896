@@ -58,7 +58,6 @@ like-minded professionals and working on exciting projects.
   
 
    
- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
 <table>
   <tr>
     <td>
@@ -71,13 +70,13 @@ like-minded professionals and working on exciting projects.
     </td>
     <td>
       <!-- הוספת גיף -->
-      <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Animated GIF" width="200" />
+ <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200">
     </td>
   </tr>
 </table>
 
 
- ה
+ 
 
  
 

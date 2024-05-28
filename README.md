@@ -55,12 +55,12 @@ like-minded professionals and working on exciting projects.
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated GIF" width="150" height="150" >
- <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical" alt="GitHub Stats" height="350" width="350"style="margin-top: 50px;"   />
+ <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical" alt="GitHub Stats" height="350" width="350"style="margin-bottom: 50px;"   />
 </p>
 
 
 
-ה
+
 
 
  

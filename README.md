@@ -47,7 +47,8 @@ like-minded professionals and working on exciting projects.
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150">  
 
-[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896)](https://github.com/sari727896) ![Build Status](https://img.shields.io/github/workflow/status/sari727896/my-project/CI)
+[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896)](https://github.com/sari727896) 
+![Build Status](https://img.shields.io/github/workflow/status/sari727896/my-project/CI)
 
 
 

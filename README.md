@@ -45,7 +45,8 @@ Let's Build Amazing Things Together!
 Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
 like-minded professionals and working on exciting projects.
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sari727896&theme=react-dark)](https://github.com/sari727896/github-readme-activity-graph)
+![Coding](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+
 
 
 

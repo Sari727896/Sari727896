@@ -45,7 +45,11 @@ Let's Build Amazing Things Together!
 Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
 like-minded professionals and working on exciting projects.
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150">  "The only way to do great work is to love what you do." - Steve Jobs
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150">  
+
+[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sari727896)](https://github.com/sari727896)
+
+
 
 
 

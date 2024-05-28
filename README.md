@@ -48,13 +48,15 @@ like-minded professionals and working on exciting projects.
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150">  
 
 ![Build Status](https://img.shields.io/static/v1?label=Build&message=Passing&color=brightgreen)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/sari727896/my-project)
 
 
 
 
 
 
-ס
+
+
 
 
 

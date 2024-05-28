@@ -45,7 +45,7 @@ Let's Build Amazing Things Together!
 Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
 like-minded professionals and working on exciting projects.
 
-![Coding](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
+![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
 

@@ -46,6 +46,7 @@ If you have an opportunity or a project you'd like to discuss, please feel free 
 open to new challenges and collaborations.
 📫 Email: sari896job@gmail.com
 <br><br>
+   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated GIF" width="300" height="150">
 
 
 Let's Build Amazing Things Together!
@@ -58,7 +59,6 @@ like-minded professionals and working on exciting projects.
 </p>
 <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sari727896&theme=radical" alt="GitHub Streak" />
-   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated GIF" width="300" height="150">
 
 </p>
 

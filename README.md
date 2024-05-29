@@ -1,6 +1,7 @@
 
 
 Hi, I'm Sara👋 
+
 <img src="link_to_hand_animation.gif" alt="Moving Hand Animation" width="100" height="100" />
 
 

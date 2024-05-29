@@ -1,6 +1,7 @@
 
 
 Hi, I'm Sara👋 
+<img src="link_to_hand_animation.gif" alt="Moving Hand Animation" width="100" height="100" />
 
 
 I'm a Freelance Full Stack Developer with a passion for crafting robust and efficient software solutions.

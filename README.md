@@ -1,6 +1,7 @@
 
 
-Hi, I'm Sara👋
+Hi, I'm Sara👋 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated Hand" width="100" height="100" />
+
 
 I'm a Freelance Full Stack Developer with a passion for crafting robust and efficient software solutions.
 I enjoy working with a diverse range of technologies to build scalable applications and solve real-world

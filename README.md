@@ -31,6 +31,7 @@ languages and tools. Here are some of the technologies I work with:
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
   <a href="לינק לפוסטמן"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
+<a href="לינק לסוואגר"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
 
 </p>
 I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience 

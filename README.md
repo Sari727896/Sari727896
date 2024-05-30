@@ -1,7 +1,7 @@
 
 
-Hi, I'm Sara👋  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Programmer Typing at Night">
-
+Hi, I'm Sara👋 
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Programmer Typing at Night">
 
 <img src="link_to_hand_animation.gif" alt="Moving Hand Animation" width="100" height="100" />
 
@@ -50,7 +50,6 @@ If you have an opportunity or a project you'd like to discuss, please feel free 
 open to new challenges and collaborations.
 📫 Email: sari896job@gmail.com
 <br><br>
-   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated GIF" width="300" height="150">
 
 
 Let's Build Amazing Things Together!

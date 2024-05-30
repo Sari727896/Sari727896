@@ -64,7 +64,7 @@ like-minded professionals and working on exciting projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sari727896&theme=radical" alt="GitHub Streak" />
 
 </p>
-![Programmer Typing](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmer Typing">
 
 
 

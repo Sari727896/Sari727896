@@ -60,7 +60,6 @@ like-minded professionals and working on exciting projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sari727896&theme=radical" alt="GitHub Streak" />
 
 </p>
-
 <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" alt="Female Programmer Typing at Night">
 <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Female Programmer Typing at Night">
 

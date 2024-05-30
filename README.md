@@ -5,7 +5,7 @@ Hi, I'm Sara👋
 <img src="link_to_hand_animation.gif" alt="Moving Hand Animation" width="100" height="100" />
 
 
-I'm a Freelance Full Stack Developer with a passion for crafting robust and efficient software solutions.
+I'm graduate Full Stack Developer with a passion for crafting robust and efficient software solutions.
 I enjoy working with a diverse range of technologies to build scalable applications and solve real-world
 problems.
 I specialize in both front-end and back-end development, and I am proficient in a variety of programming 

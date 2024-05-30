@@ -1,6 +1,7 @@
 
 
-Hi, I'm Sara👋 
+Hi, I'm Sara👋  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Programmer Typing at Night">
+
 
 <img src="link_to_hand_animation.gif" alt="Moving Hand Animation" width="100" height="100" />
 
@@ -64,7 +65,6 @@ like-minded professionals and working on exciting projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sari727896&theme=radical" alt="GitHub Streak" />
 
 </p>
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Programmer Typing at Night">
 
 
 

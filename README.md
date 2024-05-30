@@ -1,5 +1,5 @@
 
-Hi, I'm Sara👋 <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Programmer Typing at Night" style=" position: relative; top: 80px; left: 20px;" width="300" height="200">
+Hi, I'm Sara👋 <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Programmer Typing at Night" style= position: relative; top: 80px; left: 20px; width="300" height="200">
 
 <br><br>
 I'm graduate Full Stack Developer with a passion for crafting robust and efficient software solutions.

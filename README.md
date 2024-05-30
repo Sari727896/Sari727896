@@ -65,6 +65,7 @@ like-minded professionals and working on exciting projects.
 
 </p>
 
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="Female Programmer Typing at Night">
 
 
 

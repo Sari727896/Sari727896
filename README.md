@@ -1,7 +1,7 @@
 
 
 Hi, I'm Sara👋 
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Programmer Typing at Night">
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Programmer Typing at Night" width="100" height="100"> 
 I'm graduate Full Stack Developer with a passion for crafting robust and efficient software solutions.
 I enjoy working with a diverse range of technologies to build scalable applications and solve real-world
 problems.

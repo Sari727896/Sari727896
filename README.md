@@ -59,6 +59,7 @@ like-minded professionals and working on exciting projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sari727896&theme=radical" alt="GitHub Streak" />
 </p>
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 
 
 

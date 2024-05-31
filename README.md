@@ -20,8 +20,7 @@ languages and tools. Here are some of the technologies I work with:
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <a href="https://swagger.io/specification/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Web API" width="40" height="40"/></a>
-  <a href="https://docs.microsoft.com/en-us/ef/core/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Entity Framework Core" width="40" height="40"/></a>
-  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="React Redux" width="40" height="40"/></a>
+ <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="React Redux" width="40" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>

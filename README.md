@@ -40,6 +40,7 @@ innovation.
 
 If you have an opportunity or a project you'd like to discuss, please feel free to contact me. I'm always
 open to new challenges and collaborations.
+<br><br>
 📫 Email: sari896job@gmail.com
 <br><br>
 

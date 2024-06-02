@@ -18,8 +18,7 @@ languages and tools. Here are some of the technologies I work with:
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <a href="https://swagger.io/specification/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Web API" width="40" height="40"/></a>
  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="React Redux" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></a>
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>

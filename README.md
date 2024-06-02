@@ -1,6 +1,6 @@
 
 Hi, I'm Sara 
-<img src="https://media.tenor.com/zj5T7o06WskAAAAC/anime-girl-typing-on-computer.gif" alt="Girl Typing">
+<img src="https://media.tenor.com/zj5T7o06WskAAAAC/anime-girl-typing-on-computer.gif" alt="Girl Typing" height=100px,width=100px>
 
 <br><br>
 I'm graduate Full Stack Developer with a passion for crafting robust and efficient software solutions.

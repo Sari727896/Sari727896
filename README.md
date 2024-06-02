@@ -1,6 +1,6 @@
-<img width="100%" height="50" src="https://media.tenor.com/zj5T7o06WskAAAAC/anime-girl-typing-on-computer.gif" alt="Girl Typing">
 
 Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://icons8.com/illustrations/style--urban/girl-working-computer" alt="Girl working on computer" />
 
 <br><br>
 I'm graduate Full Stack Developer with a passion for crafting robust and efficient software solutions.

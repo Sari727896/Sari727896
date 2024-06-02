@@ -1,8 +1,5 @@
 
 Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<img src="https://tenor.com/view/working-girl-gif-20233898" alt="Girl working on computer" />
-
 <br><br>
 I'm graduate Full Stack Developer with a passion for crafting robust and efficient software solutions.
 I enjoy working with a diverse range of technologies to build scalable applications and solve real-world

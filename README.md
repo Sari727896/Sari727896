@@ -1,3 +1,4 @@
+![Girl Typing](https://tenor.com/view/anime-girl-cute-typing-gif-19601169)
 
 Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br><br>

@@ -1,4 +1,3 @@
-<img src="https://tenor.com/view/anime-girl-cute-typing-gif-19601169" alt="Girl Typing">
 
 Hi, I'm Sara 
 <br><br>
@@ -8,6 +7,7 @@ problems.
 I specialize in both front-end and back-end development, and I am proficient in a variety of programming 
 languages and tools. Here are some of the technologies I work with:
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+<img src="https://media.tenor.com/2ZlW99cDRyAAAAAd/anime-girl-typing.gif" alt="Girl Typing">
 
 <p align="left">
  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" buttom="10px" />  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>

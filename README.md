@@ -1,3 +1,4 @@
+<img width="100%" height="50" src="https://media.tenor.com/zj5T7o06WskAAAAC/anime-girl-typing-on-computer.gif" alt="Girl Typing">
 
 Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 

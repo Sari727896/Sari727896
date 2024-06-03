@@ -33,7 +33,7 @@ languages and tools. Here are some of the technologies I work with:
          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 
 </p>
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+<hr style="height: 5px; border: none; background-color: #ff0000;">
 
 I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience 
 in the backend web world. I am eager to collaborate on projects that push the boundaries of technology and 

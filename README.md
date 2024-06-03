@@ -7,7 +7,21 @@ problems.
 I specialize in both front-end and back-end development, and I am proficient in a variety of programming 
 languages and tools. Here are some of the technologies I work with:
 
-<hr style="border: 0; height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); margin-top: 10px; margin-bottom: 10px;">
+<svg height="5" width="100%">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+      <stop offset="14%" style="stop-color:rgb(255,127,0);stop-opacity:1" />
+      <stop offset="28%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
+      <stop offset="42%" style="stop-color:rgb(0,255,0);stop-opacity:1" />
+      <stop offset="57%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+      <stop offset="71%" style="stop-color:rgb(75,0,130);stop-opacity:1" />
+      <stop offset="85%" style="stop-color:rgb(143,0,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(238,130,238);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="0" x2="100%" y2="0" style="stroke:url(#grad1);stroke-width:5" />
+</svg>
 
 <p align="left">
  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" buttom="10px" />  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>

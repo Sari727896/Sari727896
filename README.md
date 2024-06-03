@@ -6,7 +6,7 @@ I enjoy working with a diverse range of technologies to build scalable applicati
 problems.
 I specialize in both front-end and back-end development, and I am proficient in a variety of programming 
 languages and tools. Here are some of the technologies I work with:
-<div style="width: 100%; height: 5px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);"></div>
+![Colorful Line](./images/colorful-line.png)
 
 <p align="left">
  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" buttom="10px" />  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>

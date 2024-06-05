@@ -32,17 +32,14 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
 <hr style="height: 5px; border: none; background-color: #ff0000;">
 
 ## 💼 About Me
-🔭 I’m currently working on full stack web applications
-<br><br>
-🌱 I’m currently learning advanced backend development
-<br><br>
-👯 I’m looking to collaborate on innovative projects
-<br><br>
-🤔 I’m looking for help with open source contributions
-<br><br>
-💬 Ask me about web development, programming languages, and cloud technologies
-<br><br>
-⚡ Fun fact: I love solving complex problems and exploring new technologies
+- 🔭 I’m currently working on **full stack web applications**
+- 🌱 I’m currently learning **advanced backend development**
+- 👯 I’m looking to collaborate on **innovative projects**
+- 🤔 I’m looking for help with **open source contributions**
+- 💬 Ask me about **web development, programming languages, and cloud technologies**
+- 📫 How to reach me: **sari896job@gmail.com**
+- ⚡ Fun fact: **I love solving complex problems and exploring new technologies**
+
 
 <br><br>
 🚀 My Mission

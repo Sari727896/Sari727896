@@ -2,8 +2,8 @@
 Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br><br>
 I'm a graduate Full Stack Developer, specializing in both front-end and back-end development.
+🛠️ Technologies I Work With:
 <hr style="height: 5px; border: none; background-color: #ff0000;">
-
 <p align="left">
  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" buttom="10px" />  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -31,23 +31,25 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
 </p>
 <hr style="height: 5px; border: none; background-color: #ff0000;">
 
-I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience 
-in the backend web world. I am eager to collaborate on projects that push the boundaries of technology and 
-innovation.
+💼 About Me
+🔭 I’m currently working on full stack web applications
+🌱 I’m currently learning advanced backend development
+👯 I’m looking to collaborate on innovative projects
+🤔 I’m looking for help with open source contributions
+💬 Ask me about web development, programming languages, and cloud technologies
+⚡ Fun fact: I love solving complex problems and exploring new technologies
 
-
-
-If you have an opportunity or a project you'd like to discuss, please feel free to contact me. I'm always
-open to new challenges and collaborations.
 <br><br>
-📫 Email: sari896job@gmail.com
+🚀 My Mission
+🌍 To create software solutions that make a positive impact on the world
+💡 To innovate and push the boundaries of technology
+🏆 To continuously learn and grow as a developer
+🤝 To collaborate with passionate and like-minded professionals
 <br><br>
-
-
-Let's Build Amazing Things Together!
-Feel free to explore my repositories to see my work and contributions. I look forward to connecting with
-like-minded professionals and working on exciting projects.
+📫 Contact Me
+ Email: sari896job@gmail.com
 <br><br>
+📊 GitHub Stats
 <p >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="margin-right🕠px" />
  <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom: 50px;"   />

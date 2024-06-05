@@ -1,5 +1,5 @@
 
-Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2>Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <br><br>
 I'm a graduate Full Stack Developer, specializing in both front-end and back-end development.
 <h2>🛠️ Technologies I Work With</h2> 

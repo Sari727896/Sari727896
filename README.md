@@ -32,7 +32,6 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
 <hr style="height: 5px; border: none; background-color: #ff0000;">
 
 ## 💼 About Me
-<br><br>
 🔭 I’m currently working on full stack web applications
 <br><br>
 🌱 I’m currently learning advanced backend development

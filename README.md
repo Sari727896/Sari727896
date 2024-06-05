@@ -3,7 +3,6 @@ Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz
 <br><br>
 I'm a graduate Full Stack Developer, specializing in both front-end and back-end development.
 <h2>🛠️ Technologies I Work With</h2> 
-
 <hr style="height: 5px; border: none; background-color: #ff0000;">
 <p align="left">
  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" buttom="10px" />  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>

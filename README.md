@@ -2,7 +2,8 @@
 Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br><br>
 I'm a graduate Full Stack Developer, specializing in both front-end and back-end development.
-🛠️ Technologies I Work With:
+## 🛠️ Technologies I Work With
+
 <hr style="height: 5px; border: none; background-color: #ff0000;">
 <p align="left">
  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" buttom="10px" />  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>
@@ -31,31 +32,24 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
 </p>
 <hr style="height: 5px; border: none; background-color: #ff0000;">
 
-## 💼 About Me
+# 💼 About Me
 - 🔭 I’m currently working on **full stack web applications**
 - 🌱 I’m currently learning **advanced backend development**
 - 👯 I’m looking to collaborate on **innovative projects**
 - 🤔 I’m looking for help with **open source contributions**
 - 💬 Ask me about **web development, programming languages, and cloud technologies**
-- 📫 How to reach me: **sari896job@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems and exploring new technologies**
 
 
-<br><br>
-🚀 My Mission
-<br><br>
-🌍 To create software solutions that make a positive impact on the world
-<br><br>
-💡 To innovate and push the boundaries of technology
-<br><br>
-🏆 To continuously learn and grow as a developer
-<br><br>
-🤝 To collaborate with passionate and like-minded professionals
-<br><br>
-📫 Contact Me
- Email: sari896job@gmail.com
-<br><br>
-📊 GitHub Stats
+## 🚀 My Mission
+- 🌍 To create software solutions that make a positive impact on the world
+- 💡 To innovate and push the boundaries of technology
+- 🏆 To continuously learn and grow as a developer
+- 🤝 To collaborate with passionate and like-minded professionals
+
+## 📫 Contact Me
+- **Email**: sari896job@gmail.com
+## 📊 GitHub Stats
 <p >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="margin-right🕠px" />
  <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom: 50px;"   />

@@ -1,11 +1,7 @@
 
 Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br><br>
-I'm graduate Full Stack Developer with a passion for crafting robust and efficient software solutions.
-I enjoy working with a diverse range of technologies to build scalable applications and solve real-world
-problems.
-I specialize in both front-end and back-end development, and I am proficient in a variety of programming 
-languages and tools. Here are some of the technologies I work with:
+I'm a graduate Full Stack Developer, specializing in both front-end and back-end development.
 <hr style="height: 5px; border: none; background-color: #ff0000;">
 
 <p align="left">

@@ -32,18 +32,28 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
 <hr style="height: 5px; border: none; background-color: #ff0000;">
 
 💼 About Me
+<br><br>
 🔭 I’m currently working on full stack web applications
+<br><br>
 🌱 I’m currently learning advanced backend development
+<br><br>
 👯 I’m looking to collaborate on innovative projects
+<br><br>
 🤔 I’m looking for help with open source contributions
+<br><br>
 💬 Ask me about web development, programming languages, and cloud technologies
+<br><br>
 ⚡ Fun fact: I love solving complex problems and exploring new technologies
 
 <br><br>
 🚀 My Mission
+<br><br>
 🌍 To create software solutions that make a positive impact on the world
+<br><br>
 💡 To innovate and push the boundaries of technology
+<br><br>
 🏆 To continuously learn and grow as a developer
+<br><br>
 🤝 To collaborate with passionate and like-minded professionals
 <br><br>
 📫 Contact Me

@@ -42,6 +42,25 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
 <p align="right">
   <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" height="250" width="380" style="margin-bottom: 5px;"/>
 </p>
+# 💼 About Me
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <strong>full stack web applications</strong></li>
+        <li>🌱 I’m currently learning <strong>advanced backend development</strong></li>
+        <li>👯 I’m looking to collaborate on <strong>innovative projects</strong></li>
+        <li>🤔 I’m looking for help with <strong>open source contributions</strong></li>
+        <li>💬 Ask me about <strong>web development, programming languages, and cloud technologies</strong></li>
+        <li>⚡ Fun fact: <strong>I love solving complex problems and exploring new technologies</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" height="250" width="380" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 My Mission
 - 🌍 To create software solutions that make a positive impact on the world

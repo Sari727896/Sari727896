@@ -67,6 +67,8 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
 <p>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif">
 </p>
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
 
 
 

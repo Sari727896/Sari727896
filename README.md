@@ -65,7 +65,7 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sari727896&theme=radical" alt="GitHub Streak" />
 </p>
 <p>
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
 

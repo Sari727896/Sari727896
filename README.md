@@ -61,12 +61,11 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="margin-right🕠px" />
  <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom: 50px;"   />
 </p>
-<פ<
 <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sari727896&theme=radical" alt="GitHub Streak" />
 </p>
 <p>
- <img align="right" alt="Coding" width="250" src="https://media.tenor.com/BpbKZMHLZpgAAAAC/programming.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 </p>
 
 

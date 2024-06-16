@@ -9,7 +9,7 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/ProgrammingHero1/bootstrap-icons/main/bootstrap-icon.gif" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://camo.githubusercontent.com/6ec4f3ec8698e6f5dc06a0d2f537ef62689da23824a2797d2c6a76c4ed0037bb/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a326363554267524e377a2f67697068792e676966" alt="Bootstrap" width="40" height="40"/></a>
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <a href="https://swagger.io/specification/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Web API" width="40" height="40"/></a>
  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="React Redux" width="40" height="40"/></a>
@@ -24,7 +24,7 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/d1f098d3a3ec4d3df28ef0abbd77b6b9be6f4a7897f24b29ee22d2fe4a3b8e62/68747470733a2f2f692e67697068792e636f6d2f6d656469612f58665362446a793030485a73412f67697068792e676966" alt="Material-UI" width="40" height="40"/>
 </p>
 
 # 💼 About Me
@@ -44,22 +44,3 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
       <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" height="250" width="380" />
     </td>
   </tr>
-</table>
-
-
-## 🚀 My Mission
-- 🌍 To create software solutions that make a positive impact on the world
-- 💡 To innovate and push the boundaries of technology
-- 🏆 To continuously learn and grow as a developer
-- 🤝 To collaborate with passionate and like-minded professionals
-
-## 📫 Contact Me
-- **Email**: sari896job@gmail.com
-## 📊 GitHub Stats
-<p >
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sari727896&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="margin-right🕠px" />
- <img src="https://github-readme-stats.vercel.app/api?username=sari727896&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom: 50px;"   />
-</p>
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sari727896&theme=radical" alt="GitHub Streak" />
-</p>

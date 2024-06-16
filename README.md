@@ -25,6 +25,7 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" width="40" height="40">
 
 </p>
 

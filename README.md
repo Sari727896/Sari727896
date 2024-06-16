@@ -26,6 +26,7 @@ I'm a graduate Full Stack Developer, specializing in both front-end and back-end
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" height="40">
 
 </p>
 
